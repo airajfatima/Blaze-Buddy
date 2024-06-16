@@ -2,7 +2,9 @@
 
 An IoT & Cloud enabled Alarm System with FireBase, Google maps and Gemini API integration 
 BLAZE BUDDY - Brightening Lives, Dimming the Danger.
-![Picture10](https://github.com/Project-be25/mini_project/assets/169865769/f5ef4918-4b72-499b-8f8e-00c62af5efc1)
+
+![Picture1](https://github.com/Project-be25/mini_project/assets/169865769/9fb578de-77ea-43d6-81f1-da425e930943)
+
 
 Our proposed solution utilises sensors, firebase and flutter-based apps to enhance fire detection and notification capabilities. This system aims to not only alert users but also notify the fire service department promptly, and facilitate swift and coordinated response from relevant authorities to potential fire incidents. 
 WORKFLOW:

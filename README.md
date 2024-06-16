@@ -54,8 +54,10 @@ Added an About Us page featuring information about the app developers.
 
 Output:
 
- ![Picture2](https://github.com/Project-be25/mini_project/assets/169865769/eb94b624-68a5-45bc-9b86-ce191e35b6c8)
+![Picture2](https://github.com/Project-be25/mini_project/assets/169865769/eb94b624-68a5-45bc-9b86-ce191e35b6c8)
 ![Picture19](https://github.com/Project-be25/mini_project/assets/169865769/baa55624-5278-45da-bcc0-e6fc7eb0e157)
+![Screenshot 2024-06-15 101957](https://github.com/Project-be25/mini_project/assets/169865769/e58af5ac-9fba-49f9-8c75-741737114837)
+
 
 Thank You!
 

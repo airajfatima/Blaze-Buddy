@@ -1,6 +1,7 @@
-# Mini_Project
+# Mini_Project: BLAZE BUDDY - Brightening Lives, Dimming the Danger.
 
 An IoT & Cloud enabled Alarm System with FireBase, Google maps and Gemini API integration 
+
 BLAZE BUDDY - Brightening Lives, Dimming the Danger.
 
 ![Picture1](https://github.com/Project-be25/mini_project/assets/169865769/9fb578de-77ea-43d6-81f1-da425e930943)

@@ -1,10 +1,11 @@
-# mini_project
+# mini_project: Blaze Buddy: Brightening Lives, Dimming Danger
 
-Blaze_Buddy
+Blaze_Buddy Client App
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+Please run on Android only.
 
 A few resources to get you started if this is your first Flutter project:
 

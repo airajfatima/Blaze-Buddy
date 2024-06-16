@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "286153118585",
+    "firebase_url": "https://blaze-buddy-default-rtdb.firebaseio.com",
+    "project_id": "blaze-buddy",
+    "storage_bucket": "blaze-buddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286153118585:android:dce85247f801349c4f55a8",
+        "android_client_info": {
+          "package_name": "com.example.mini_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTDW89-t242M_gl_cYmJfwLyDRaGJNmOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

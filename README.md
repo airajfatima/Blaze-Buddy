@@ -1,4 +1,4 @@
-BLAZE BUDDY - Brightening Lives, Dimming the Danger.
+# Mini_Project: BLAZE BUDDY - Brightening Lives, Dimming the Danger.
 
 An IoT & Cloud enabled Alarm System with FireBase, Google maps and Gemini API integration 
 
@@ -54,18 +54,19 @@ Output:
 ![Picture2](https://github.com/Project-be25/mini_project/assets/169865769/eb94b624-68a5-45bc-9b86-ce191e35b6c8)
 ![Picture19](https://github.com/Project-be25/mini_project/assets/169865769/baa55624-5278-45da-bcc0-e6fc7eb0e157)
 
+Circuit
+
+![image](https://github.com/Project-be25/mini_project/assets/169865769/1891febc-0dbe-4b10-878d-2fabac46f20f)
+
 Firebase
 
 ![Screenshot 2024-06-15 101957](https://github.com/Project-be25/mini_project/assets/169865769/e58af5ac-9fba-49f9-8c75-741737114837)
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/6176abe7-2a85-4647-89b5-f9f7e3a3b80e)
+![image](https://github.com/Project-be25/mini_project/assets/169865769/ddc6c12d-5a32-4fed-8e0e-0f6f7a30bbe7)
 ![image](https://github.com/Project-be25/mini_project/assets/169865769/2504eb9e-9ca4-4788-84d2-b1205ab92495)
 
 
 Thank You!
 
 ![Picture12](https://github.com/Project-be25/mini_project/assets/169865769/7c24e408-9017-4778-8385-a0407a22ecf2)
-
-
-
 
 

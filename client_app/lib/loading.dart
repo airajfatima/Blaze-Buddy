@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'Home.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:mini_project/start.dart';
+import 'start.dart';
 
 class Loading extends StatefulWidget {
   //const Loading({super.key});

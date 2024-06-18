@@ -20,14 +20,14 @@ class _HomePageState extends State<HomePage> {
   FirebaseDatabase database = FirebaseDatabase.instance;
   FirebaseFirestore db = FirebaseFirestore.instance;
   String status = "";
-  String phno1="1234567890";
-  String name1="Name 1";
+  String phno1="";
+  String name1="";
   double latitude = 0.0;
   double longitude = 0.0;
   String address = "";
   double latitude1 = 17.4062;
   double longitude1 = 78.4691;
-  String address1 = "Address 1";
+  String address1 = "";
   final String googleMapsApiKey = 'AIzaSyAIpuJIPdUt_-TEWdTdUNjwp2Im6_KZWQc';
 
   void fetchdata() {
@@ -128,7 +128,7 @@ class _HomePageState extends State<HomePage> {
             margin: EdgeInsets.all(5),
             alignment: Alignment.center,
             child: Image.asset(
-              'D:/Flutter/fireman_app/assets/icons/Blazebuddy.jpg',
+              'assets/icons/Blazebuddy.jpg',
             ),
           ),
         ),

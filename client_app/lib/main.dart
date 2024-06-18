@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
-import 'package:mini_project/Home.dart';
-import 'package:mini_project/chat.dart';
-import 'package:mini_project/info.dart';
-import 'package:mini_project/loading.dart';
-import 'package:mini_project/location.dart';
+import 'Home.dart';
+import 'chat.dart';
+import 'info.dart';
+import 'loading.dart';
+import 'location.dart';
 import 'contact.dart';
 import 'package:flutter_gemini/flutter_gemini.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'package:mini_project/start.dart';
+import 'start.dart';
 
  void  main() async{
  WidgetsFlutterBinding.ensureInitialized();

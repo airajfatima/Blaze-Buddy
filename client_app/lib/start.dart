@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mini_project/Home.dart';
-import 'package:mini_project/login.dart';
+import 'Home.dart';
+import 'login.dart';
 
 class Start extends StatefulWidget {
   const Start({Key? key});

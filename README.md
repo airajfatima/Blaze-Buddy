@@ -9,7 +9,7 @@ BLAZE BUDDY - Brightening Lives, Dimming the Danger.
 
 Our proposed solution utilises sensors, firebase and flutter-based apps to enhance fire detection and notification capabilities. This system aims to not only alert users but also notify the fire service department promptly, and facilitate swift and coordinated response from relevant authorities to potential fire incidents.
 
-WORKFLOW:
+WORKFLOW 
 
 ![image](https://github.com/Project-be25/fireman_app/assets/169865769/979cd9d3-1012-4253-8eb3-b5de93978277)
 
@@ -24,13 +24,9 @@ Integration with Google Maps- Integration with Google Maps to easily navigate to
 Pre-entered Contacts on Keypad- Dialer with the contact number already entered to connect instantly, eliminating the need for typing during critical moments.
 
 Output
+
 ![image](https://github.com/Project-be25/mini_project/assets/169865769/c3b6ccf9-846e-46f8-809d-d545080a1237)
 
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/d8294e8b-b23a-46d3-ac4c-d7b101c67c4d)
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/d408b6cb-2a2b-4ff9-8d44-5db9ab7fcc1e)
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/016fa75f-efba-4c0a-ae29-70e7271b3c70)
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/56d7bfb0-ca48-4890-bec7-ad41f1b1837d)
-![image](https://github.com/Project-be25/fireman_app/assets/169865769/6176abe7-2a85-4647-89b5-f9f7e3a3b80e)
 
 Client App Features
 
@@ -56,7 +52,13 @@ Output:
 
 ![Picture2](https://github.com/Project-be25/mini_project/assets/169865769/eb94b624-68a5-45bc-9b86-ce191e35b6c8)
 ![Picture19](https://github.com/Project-be25/mini_project/assets/169865769/baa55624-5278-45da-bcc0-e6fc7eb0e157)
+
+Firebase
+
 ![Screenshot 2024-06-15 101957](https://github.com/Project-be25/mini_project/assets/169865769/e58af5ac-9fba-49f9-8c75-741737114837)
+![image](https://github.com/Project-be25/fireman_app/assets/169865769/6176abe7-2a85-4647-89b5-f9f7e3a3b80e)
+![rtdb](https://github.com/Project-be25/mini_project/assets/169865769/ebcb3dcf-1e07-4009-872e-44349d25fead)
+
 
 
 Thank You!

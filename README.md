@@ -57,8 +57,7 @@ Firebase
 
 ![Screenshot 2024-06-15 101957](https://github.com/Project-be25/mini_project/assets/169865769/e58af5ac-9fba-49f9-8c75-741737114837)
 ![image](https://github.com/Project-be25/fireman_app/assets/169865769/6176abe7-2a85-4647-89b5-f9f7e3a3b80e)
-![rtdb](https://github.com/Project-be25/mini_project/assets/169865769/ebcb3dcf-1e07-4009-872e-44349d25fead)
-
+![image](https://github.com/Project-be25/mini_project/assets/169865769/2504eb9e-9ca4-4788-84d2-b1205ab92495)
 
 
 Thank You!
